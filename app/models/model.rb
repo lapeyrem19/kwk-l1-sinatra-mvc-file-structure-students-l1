@@ -25,6 +25,9 @@ end
 
     def age
       @age
-
+      
+def self.all
+  all = [@name]
+end
 
 end
